@@ -26,8 +26,6 @@ This process takes a considerable amount of time running on the Frankenstein rig
 
 To discuss issues and ideas for improvements please visit the forum.
 
-Or hang with us on Discord https://discord.gg/sJA34APE
-
 
 dFace Version 1.0 Alpha Examples
 
