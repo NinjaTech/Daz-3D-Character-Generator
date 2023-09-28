@@ -3,7 +3,7 @@ Daz 3D Character Generator
 dFACE Character Generator from Image
 This is a FREE to use Online resource tool. It is currently in Alpha Testing.
 
-https://vertexbay.com/daz-character-generator/
+[https://vertexbay.com/daz-character-generator/](https://madskills.studio/online-resources/dface/)
 
 However! You do need to be registered and logged in to access the generator as the results can take some time to finish and there is a wait queue as my current rig can only do 1 at a time. So when it is finished it will send you an email and you can download the zip package from your account area. This is one reason registration is required. The other is to prevent spamming of the system.
 
